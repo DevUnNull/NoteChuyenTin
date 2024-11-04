@@ -3,3 +3,29 @@
 8,9 khó nhớ
 10 cập nhập DB
 1 dài , không có kết quả để so sánh
+
+あした　なにをしますか　ngày mai sẽ làm gì 
+
+なにも　しません　cái gì tôi cũng không làm / tôi không làm gì 
+
+どこへ　いきますか　tối này bạn sẽ đi đâu
+
+どこへも　いきません　tôi không đi đâu cả , nơi nào tôi cũng không đi 
+
+まいにち、あさごはんを　たべますか　hằng ngày bạn có ăn sáng không
+はい、Vます
+いいえ、Vません
+
+はも
+の
+とや
+を
+で
+へ
+に
+から
+まで
+か
+
+おかねをかります vay tien
+
