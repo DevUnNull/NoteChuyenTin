@@ -1,0 +1,167 @@
+Âm kun : khi đứng 1 mình
+Âm ôn : khi đứng cùng 1 chữ kanji khác
+
+1 Tư - 私
+Âm kun: わたし (Watashi), わたくし (Watakushi)
+Âm on: シ (Shi)
+(nghĩa là "tôi" hoặc "cá nhân")
+
+2 Nhân - 人
+Âm kun: ひと (Hito)
+Âm on: ジン (Jin), ニン (Nin)
+(nghĩa là "người")
+
+3 Tài - 才
+Âm kun: とし (Toshi - ít dùng), năng lực, tuổi
+Âm on: サイ (Sai)
+(nghĩa là "tài năng", "tuổi")
+
+4 Học - 学
+Âm kun: まなぶ (Manabu)
+Âm on: ガク (Gaku)
+(nghĩa là "học")
+
+5 Sinh - 生
+Âm kun: いきる (Ikiru), うむ (Umu), うまれる (Umareru), なま (Nama)
+Âm on: セイ (Sei), ショウ (Shō)
+(nghĩa là "sống", "sinh ra", "cuộc sống")
+
+6 Hiệu - 校
+Âm kun: Không có âm kun
+Âm on: コウ (Kō)
+(nghĩa là "trường học")
+
+7 Nhật - 日
+Âm kun: ひ (Hi), か (Ka)
+Âm on: ニチ (Nichi), ジツ (Jitsu)
+(nghĩa là "ngày" hoặc "mặt trời")
+
+8 Bản - 本
+Âm kun: もと (Moto)
+Âm on: ホン (Hon)
+(nghĩa là "sách", "gốc", "nguồn gốc")
+
+9 Ngữ - 語
+Âm kun: かたる (Kataru), かたり (Katari)
+Âm on: ゴ (Go)
+(nghĩa là "từ ngữ" hoặc "ngôn ngữ")
+------------------------------------------------------------------------------------------
+10 Nhất - 一
+Âm kun: ひと (Hito), ひとつ (Hitotsu)
+Âm on: イチ (Ichi), イツ (Itsu)
+(nghĩa là "một")
+
+11 Nhị - 二
+Âm kun: ふた (Futa), ふたつ (Futatsu)
+Âm on: ニ (Ni)
+(nghĩa là "hai")
+
+12 Tam - 三
+Âm kun: み (Mi), みっつ (Mittsū)
+Âm on: サン (San)
+(nghĩa là "ba")
+
+13 Tứ - 四
+Âm kun: よ (Yo), よん (Yon), よっつ (Yottsū)
+Âm on: シ (Shi)
+(nghĩa là "bốn")
+
+14 Ngũ - 五
+Âm kun: いつ (Itsu), いつつ (Itsutsū)
+Âm on: ゴ (Go)
+(nghĩa là "năm")
+
+15 Lục - 六
+Âm kun: む (Mu), むっつ (Muttsū)
+Âm on: ロク (Roku)
+(nghĩa là "sáu")
+
+16Thất - 七
+Âm kun: なな (Nana), ななつ (Nanatsū)
+Âm on: シチ (Shichi)
+(nghĩa là "bảy")
+
+17 Thập - 十
+Âm kun: とお (Tō)
+Âm on: ジュウ (Jū), ジッ (Jit)
+(nghĩa là "mười")
+
+18 Bách - 百
+Âm kun: もも (Momo - rất ít dùng)
+Âm on: ヒャク (Hyaku), ビャク (Byaku), ピャク (Pyaku)
+(nghĩa là "một trăm")
+
+19 Thiên - 千
+Âm kun: ち (Chi - rất ít dùng)
+Âm on: セン (Sen), ゼン (Zen)
+(nghĩa là "một nghìn")
+
+20 Vạn - 万
+Âm kun: なし (Không có âm kun sử dụng phổ biến)
+Âm on: マン (Man), バン (Ban)
+(nghĩa là "mười nghìn")
+
+21 Viên - 円
+Âm kun: まる (Maru, nghĩa là "tròn", ít dùng với ý nghĩa tiền tệ)
+Âm on: エン (En)
+(nghĩa là "đồng yên" hoặc "vòng tròn")
+--------------------------------------------------------
+22 Nguyệt - 月
+Âm kun: つき (Tsuki)
+Âm on: ゲツ (Getsu), ガツ (Gatsu)
+(nghĩa là "tháng" hoặc "mặt trăng")
+
+23 Hỏa - 火
+Âm kun: ひ (Hi)
+Âm on: カ (Ka)
+(nghĩa là "lửa")
+
+24 Thủy - 水
+Âm kun: みず (Mizu)
+Âm on: スイ (Sui)
+(nghĩa là "nước")
+
+25 Mộc - 木
+Âm kun: き (Ki)
+Âm on: モク (Moku), ボク (Boku)
+(nghĩa là "cây" hoặc "gỗ")
+
+26 Kim - 金
+Âm kun: かね (Kane)
+Âm on: キン (Kin), コン (Kon)
+(nghĩa là "vàng" hoặc "kim loại")
+
+27 Thổ - 土
+Âm kun: つち (Tsuchi)
+Âm on: ド (Do), ト (To)
+(nghĩa là "đất")
+
+28 Thứ - 次
+Âm kun: つぎ (Tsugi)
+Âm on: ジ (Ji), シ (Shi)
+(nghĩa là "tiếp theo")
+
+29 Hà - 何
+Âm kun: なに (Nani), なん (Nan)
+Âm on: カ (Ka)
+(nghĩa là "gì" hoặc "cái gì")
+
+30 Niên - 年
+Âm kun: とし (Toshi)
+Âm on: ネン (Nen)
+(nghĩa là "năm")
+
+31 Thời - 時
+Âm kun: とき (Toki)
+Âm on: ジ (Ji)
+(nghĩa là "thời gian" hoặc "giờ")
+
+32 Gian - 間
+Âm kun: あいだ (Aida), ま (Ma)
+Âm on: カン (Kan), ケン (Ken)
+(nghĩa là "khoảng cách" hoặc "thời gian")
+
+33 Phân - 分
+Âm kun: わかれる (Wakareru), わける (Wakeru)
+Âm on: フン (Fun), ブン (Bun), プン (Pun)
+(nghĩa là "phút" hoặc "chia")
