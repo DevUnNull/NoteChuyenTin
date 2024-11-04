@@ -1,3 +1,4 @@
+
 1いま(ima,ma,sợ bây giờ)	
 2ごぜん(zen,sáng)	ごぜん	
 3ごご(go,tapTheDuc,chieu)	
@@ -6,6 +7,7 @@
 6たいいくがん(gan,thiDau)		
 7としょかん(toSoKan,tuSachCan,thuVien)
 8びょういん(bio,bieu,benhVien)
+8.1ゆうびんきょく(bin,biuDien)
 9じゅぎょう(jugyo,thongMinh,gioHoc)		
 0テスト(teSuTo,test,thi,baiKiemTra)		
 
