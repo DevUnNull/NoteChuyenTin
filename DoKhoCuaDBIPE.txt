@@ -29,3 +29,122 @@
 
 おかねをかります vay tien
 
+Hiểu rõ các trợ từ trong tiếng Nhật sẽ giúp bạn cải thiện khả năng ngữ pháp. Dưới đây là cách sử dụng cơ bản của các trợ từ mà bạn hỏi:
+
+は (wa): Trợ từ này dùng để nhấn mạnh chủ đề của câu. Ví dụ:
+
+わたしは学生です。 (Tôi là học sinh)
+も (mo): Có nghĩa là "cũng", được dùng để chỉ sự tương đồng. Ví dụ:
+
+わたしも学生です。 (Tôi cũng là học sinh)
+の (no): Biểu thị sự sở hữu, tương tự như "của" trong tiếng Việt. Ví dụ:
+
+わたしの本 (Cuốn sách của tôi)
+と (to): Có nghĩa là "và", dùng để kết nối hai hoặc nhiều danh từ. Ví dụ:
+
+本とペン (Sách và bút)
+や (ya): Cũng có nghĩa là "và", nhưng gợi ý rằng còn các vật khác không được liệt kê. Ví dụ:
+
+本やペン (Sách, bút, và các thứ khác)
+を (wo/o): Là trợ từ chỉ tân ngữ, được dùng sau danh từ bị tác động bởi động từ. Ví dụ:
+
+本を読む (Đọc sách)
+で (de): Chỉ địa điểm nơi hành động xảy ra hoặc phương tiện hành động được thực hiện. Ví dụ:
+
+学校で勉強する (Học ở trường)
+バスで行く (Đi bằng xe buýt)
+へ (e): Chỉ hướng di chuyển, tương tự như "đến". Ví dụ:
+
+学校へ行く (Đi đến trường)
+に (ni): Chỉ nơi chốn, thời gian hoặc đích đến, nhưng chính xác hơn và trang trọng hơn へ. Ví dụ:
+
+学校に行く (Đi đến trường)
+7時に起きる (Thức dậy lúc 7 giờ)
+から (kara): Nghĩa là "từ", chỉ nơi bắt đầu hoặc nguyên nhân. Ví dụ:
+
+東京から来ました。 (Đến từ Tokyo)
+まで (made): Nghĩa là "đến", chỉ điểm kết thúc. Ví dụ:
+
+3時まで勉強する。 (Học đến 3 giờ)
+か (ka): Trợ từ để tạo câu hỏi hoặc liệt kê, tương tự như "hay" trong câu hỏi lựa chọn. Ví dụ:
+
+あなたは学生ですか？ (Bạn có phải là học sinh không?)
+りんごかバナナをください。(Hãy cho tôi táo hoặc chuối)
+---------------------------------------------------------------------------------------------
+1. です (desu)
+Đuôi lịch sự cơ bản, được dùng để thể hiện sự trang trọng trong câu khẳng định hoặc phủ định.
+Ví dụ:
+これは本です。(Đây là cuốn sách.)
+それはりんごではありません。(Đó không phải là quả táo.)
+2. ます (masu)
+Dùng với động từ ở thể lịch sự, kết thúc động từ với ý khẳng định.
+Ví dụ:
+食べます (Tôi ăn)
+行きます (Tôi đi)
+3. ません (masen)
+Đuôi phủ định của ます, dùng để nói về điều không làm.
+Ví dụ:
+食べません (Tôi không ăn)
+行きません (Tôi không đi)
+4. ましょう (mashou)
+Đuôi thể hiện ý chí hoặc đề xuất làm gì đó, thường dịch là "chúng ta hãy...".
+Ví dụ:
+行きましょう (Chúng ta hãy đi)
+食べましょう (Hãy ăn nào)
+5. ましょうか (mashou ka)
+Đuôi câu đề nghị lịch sự, dùng để hỏi ý kiến hoặc gợi ý hành động.
+Ví dụ:
+一緒に行きましょうか？ (Chúng ta cùng đi nhé?)
+手伝いましょうか？ (Tôi giúp bạn nhé?)
+6. たいです (tai desu)
+Đuôi câu diễn đạt mong muốn hoặc nhu cầu làm gì đó, thường dịch là "muốn".
+Ví dụ:
+日本に行きたいです。(Tôi muốn đi Nhật Bản.)
+ケーキを食べたいです。(Tôi muốn ăn bánh.)
+7. てください (te kudasai)
+Đuôi yêu cầu hoặc nhờ vả lịch sự, tương tự như "hãy…".
+Ví dụ:
+読んでください (Xin hãy đọc)
+書いてください (Xin hãy viết)
+8. てもいいです (te mo ii desu)
+Đuôi câu biểu đạt sự cho phép, có nghĩa "cũng được".
+Ví dụ:
+ここに座ってもいいですか？ (Tôi ngồi đây được không?)
+9. てはいけません (te wa ikemasen)
+Đuôi câu cấm đoán, có nghĩa là "không được phép".
+Ví dụ:
+ここでタバコを吸ってはいけません。 (Không được hút thuốc ở đây.)
+10. たいと思います (tai to omoimasu)
+Đuôi câu lịch sự khi muốn diễn đạt mong muốn cá nhân một cách nhẹ nhàng hơn.
+Ví dụ:
+日本語を勉強したいと思います。 (Tôi muốn học tiếng Nhật.)
+11. んです (ndesu) hoặc のです (no desu)
+Dùng để giải thích hoặc nhấn mạnh lý do, đặc biệt là khi muốn giải thích rõ ràng hơn về câu nói trước đó.
+Ví dụ:
+頭が痛いんです。 (Tôi bị đau đầu.)
+どうしてですか？(Tại sao vậy?)
+12. かな (ka na)
+Đuôi câu dùng để tự hỏi hoặc nghi ngờ nhẹ, thể hiện suy nghĩ của người nói.
+Ví dụ:
+明日は晴れるかな？ (Ngày mai trời có nắng không nhỉ?)
+13. でしょう (deshou) và だろう (darou)
+Đuôi câu để đưa ra dự đoán hoặc thể hiện sự suy đoán, lịch sự hơn là でしょう.
+Ví dụ:
+明日は雨でしょう。 (Có lẽ ngày mai sẽ mưa.)
+14. かもしれません (kamoshiremasen)
+Đuôi câu biểu đạt khả năng hoặc sự không chắc chắn, nghĩa là "có lẽ".
+Ví dụ:
+彼は来ないかもしれません。(Có lẽ anh ấy sẽ không đến.)
+15. ね (ne) và よ (yo)
+ね: Dùng để xác nhận hoặc nhấn mạnh một ý kiến, có nghĩa "nhỉ" hoặc "phải không".
+今日は寒いですね。(Hôm nay lạnh nhỉ?)
+よ: Dùng để nhấn mạnh hoặc cung cấp thông tin cho người nghe, nghĩa là "đấy".
+これは本当においしいよ！(Cái này ngon thật đấy!)
+
+
+かだbắt đầu
+ませkết thúc
+に đang diễn ra
+
+せんせい、ごゆっくり　いってください。cô ơi cố nói chậm được không ạ
+せんせい、もういちど　いってください　cô nói lại đi ạ
